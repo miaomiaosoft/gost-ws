@@ -1,12 +1,12 @@
 # 部署 GOST 到 VPS、Paas（openshift、arukas)
 
-gost 版本 2.3
+gost 版本 2.5
 
 镜像: wangyi2005/gost-ws （https://hub.docker.com/r/wangyi2005/gost-ws ）
 
 设置 3 个 环境变量:
 
-1、MODE : 默认为ws，可设置为 wss、http2、tls等。
+1、MODE : 默认为ws，可设置为 wss、ws、mws、mwss、http2、tls等。
 
 2、CERT_PEM： PEM格式证书，替换内置证书。
 
