@@ -1,6 +1,6 @@
 # 部署 GOST 到 VPS、Paas（openshift、arukas)
 
-gost 版本 2.5
+gost 版本 2.6
 
 镜像: wangyi2005/gost-ws （https://hub.docker.com/r/wangyi2005/gost-ws ）
 
